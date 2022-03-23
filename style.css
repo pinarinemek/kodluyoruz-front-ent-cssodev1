@@ -1,0 +1,53 @@
+body {
+    background-color: #FDFCE5;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.box {
+    width: 200px;
+    height: 100px;
+    margin-left: 40%;
+    margin-top: 50px;
+    background-color: #F4D19B;
+    border-radius: 20%;
+}
+
+p {
+
+    font-size: large;
+    font-family: serif;
+    text-align: center;
+}
+
+button {
+    background-color: #D7E9F7;
+    width: 150px;
+    height: 150px;
+    border-radius: 20%;
+    margin-left: 250px;
+    margin-top: 150px;
+}
+
+.home {
+    width: 30px;
+    height: 30px;
+}
+
+ul {
+    font-size: medium;
+    font-family: monospace;
+    margin-left: 40%;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    
+}
+
